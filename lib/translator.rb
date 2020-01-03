@@ -4,6 +4,7 @@ require 'pry'
 
 def load_library(file_path)
   file = File.read(file_path)
+  
 end
 
 def get_japanese_emoticon
