@@ -3,7 +3,7 @@ require 'yaml'
 require 'pry'
 
 def load_library
-  # code goes here
+  file = File.read
 end
 
 def get_japanese_emoticon
