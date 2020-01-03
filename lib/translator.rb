@@ -2,7 +2,7 @@
 require 'yaml'
 require 'pry'
 
-def load_library
+def load_library(file_path)
   file = File.read(file_path)
 end
 
